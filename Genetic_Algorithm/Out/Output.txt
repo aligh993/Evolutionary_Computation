@@ -1,0 +1,466 @@
+----------------------------f1-----------------
+
+------- 1 -------
+The Best X is : 
+    1.9373    1.1381
+
+The Best Fitness is : 
+    0.0507
+
+Elapsed time is 0.097891 seconds.
+------- 2 -------
+The Best X is : 
+    1.9371    1.1381
+
+The Best Fitness is : 
+    0.0507
+
+Elapsed time is 0.102712 seconds.
+------- 3 -------
+The Best X is : 
+    1.9371    1.1378
+
+The Best Fitness is : 
+    0.0507
+
+Elapsed time is 0.057932 seconds.
+------- 4 -------
+The Best X is : 
+    1.9419    1.0824
+
+The Best Fitness is : 
+    0.0102
+
+Elapsed time is 0.057292 seconds.
+------- 5 -------
+The Best X is : 
+    1.9367    1.1353
+
+The Best Fitness is : 
+    0.0507
+
+Elapsed time is 0.060289 seconds.
+------- 6 -------
+The Best X is : 
+    1.8994    1.1386
+
+The Best Fitness is : 
+    0.0293
+
+Elapsed time is 0.056849 seconds.
+------- 7 -------
+The Best X is : 
+    1.8235    1.0618
+
+The Best Fitness is : 
+    0.0350
+
+Elapsed time is 0.056078 seconds.
+------- 8 -------
+The Best X is : 
+    1.9395    1.0343
+
+The Best Fitness is : 
+    0.0048
+
+Elapsed time is 0.056739 seconds.
+------- 9 -------
+The Best X is : 
+    1.9466    1.1658
+
+The Best Fitness is : 
+    0.0521
+
+Elapsed time is 0.057226 seconds.
+------- 10 -------
+The Best X is : 
+    1.9363    1.1381
+
+The Best Fitness is : 
+    0.0507
+
+Elapsed time is 0.056818 seconds.
+---------------------------
+Mean: 
+    0.0385
+
+Best: 
+    0.0048
+
+Worst: 
+    0.0521
+
+STD: 
+    0.0182
+
+Average Running Time: 
+    0.0661
+
+>>
+
+----------------------------------------------------------------
+
+
+---------------------------------------F2-------------------------
+
+------- 1 -------
+The Best X is : 
+  Columns 1 through 4
+
+   81.2045   34.5987   28.3542   44.4372
+
+  Column 5
+
+   41.5634
+
+The Best Fitness is : 
+  -3.0636e+04
+
+Elapsed time is 0.065539 seconds.
+------- 2 -------
+The Best X is : 
+  Columns 1 through 4
+
+   78.3472   41.9133   27.3153   44.9693
+
+  Column 5
+
+   32.0946
+
+The Best Fitness is : 
+  -3.1690e+04
+
+Elapsed time is 0.070041 seconds.
+------- 3 -------
+The Best X is : 
+  Columns 1 through 4
+
+   82.9233   42.4533   27.5789   44.9573
+
+  Column 5
+
+   31.4936
+
+The Best Fitness is : 
+  -3.1361e+04
+
+Elapsed time is 0.039581 seconds.
+------- 4 -------
+The Best X is : 
+  Columns 1 through 4
+
+   78.5559   44.1317   28.4885   44.9965
+
+  Column 5
+
+   32.6748
+
+The Best Fitness is : 
+  -3.1288e+04
+
+Elapsed time is 0.040545 seconds.
+------- 5 -------
+The Best X is : 
+  Columns 1 through 4
+
+   79.9171   44.9618   28.2501   44.9993
+
+  Column 5
+
+   27.2094
+
+The Best Fitness is : 
+  -3.1637e+04
+
+Elapsed time is 0.044434 seconds.
+------- 6 -------
+The Best X is : 
+  Columns 1 through 4
+
+   79.7013   44.0415   27.3354   44.8726
+
+  Column 5
+
+   39.4865
+
+The Best Fitness is : 
+  -3.1104e+04
+
+Elapsed time is 0.038856 seconds.
+------- 7 -------
+The Best X is : 
+  Columns 1 through 4
+
+   79.0380   44.9282   28.3323   44.9744
+
+  Column 5
+
+   27.0906
+
+The Best Fitness is : 
+  -3.1673e+04
+
+Elapsed time is 0.038592 seconds.
+------- 8 -------
+The Best X is : 
+  Columns 1 through 4
+
+   78.7714   44.9992   27.8032   44.9994
+
+  Column 5
+
+   29.3536
+
+The Best Fitness is : 
+  -3.1699e+04
+
+Elapsed time is 0.038452 seconds.
+------- 9 -------
+The Best X is : 
+  Columns 1 through 4
+
+   80.0892   44.9647   29.6313   44.9705
+
+  Column 5
+
+   28.3117
+
+The Best Fitness is : 
+  -3.1126e+04
+
+Elapsed time is 0.038190 seconds.
+------- 10 -------
+The Best X is : 
+  Columns 1 through 4
+
+   82.5363   44.9989   29.2266   44.9992
+
+  Column 5
+
+   27.5799
+
+The Best Fitness is : 
+  -3.1154e+04
+
+Elapsed time is 0.038798 seconds.
+---------------------------
+Mean: 
+  -3.1337e+04
+
+Best: 
+  -3.1699e+04
+
+Worst: 
+  -3.0636e+04
+
+STD: 
+  347.3893
+
+Average Running Time: 
+    0.0454
+
+>> 
+
+
+-------------------------------------------------------
+
+
+----------------------f3-------------------------------
+
+------- 1 -------
+The Best X is : 
+  Columns 1 through 4
+
+    1.9967    1.9987    1.9999    1.9997
+
+  Columns 5 through 8
+
+    1.9977    1.9997    1.9998    1.9995
+
+  Columns 9 through 10
+
+    1.9993    1.9999
+
+The Best Fitness is : 
+ -295.6959
+
+Elapsed time is 0.070581 seconds.
+------- 2 -------
+The Best X is : 
+  Columns 1 through 4
+
+    1.7532    1.9528    1.8449    1.6697
+
+  Columns 5 through 8
+
+    1.8585    1.5317    1.1503    1.8651
+
+  Columns 9 through 10
+
+    1.3206    1.3773
+
+The Best Fitness is : 
+ -334.6148
+
+Elapsed time is 0.068138 seconds.
+------- 3 -------
+The Best X is : 
+  Columns 1 through 4
+
+    0.5491    1.3381    1.9154    1.1642
+
+  Columns 5 through 8
+
+    1.7445    1.5883    1.8465    1.8766
+
+  Columns 9 through 10
+
+    1.9312    0.7307
+
+The Best Fitness is : 
+ -328.5533
+
+Elapsed time is 0.065066 seconds.
+------- 4 -------
+The Best X is : 
+  Columns 1 through 4
+
+    1.7212    1.9388    1.8320    0.6744
+
+  Columns 5 through 8
+
+    1.3746    1.8161    1.4481    1.6225
+
+  Columns 9 through 10
+
+    0.8060    1.3666
+
+The Best Fitness is : 
+ -306.3919
+
+Elapsed time is 0.087559 seconds.
+------- 5 -------
+The Best X is : 
+  Columns 1 through 4
+
+    1.9969    2.0000    1.9998    1.9997
+
+  Columns 5 through 8
+
+    1.9997    1.9981    1.9997    1.9944
+
+  Columns 9 through 10
+
+    1.9998    2.0000
+
+The Best Fitness is : 
+ -295.6932
+
+Elapsed time is 0.064987 seconds.
+------- 6 -------
+The Best X is : 
+  Columns 1 through 4
+
+    0.3534    1.9154    1.2507    1.3985
+
+  Columns 5 through 8
+
+    1.0932    1.1811    1.9936    1.7634
+
+  Columns 9 through 10
+
+    1.5915    1.7737
+
+The Best Fitness is : 
+ -309.3553
+
+Elapsed time is 0.078100 seconds.
+------- 7 -------
+The Best X is : 
+  Columns 1 through 4
+
+    1.9998    1.9995    1.9998    1.9996
+
+  Columns 5 through 8
+
+    1.9999    1.9991    2.0000    1.9978
+
+  Columns 9 through 10
+
+    1.9997    1.9990
+
+The Best Fitness is : 
+ -295.7533
+
+Elapsed time is 0.065970 seconds.
+------- 8 -------
+The Best X is : 
+  Columns 1 through 4
+
+    1.1208    1.5607    1.8477    0.2207
+
+  Columns 5 through 8
+
+    1.0510    1.9213    0.9662    1.7792
+
+  Columns 9 through 10
+
+    1.9714    1.3953
+
+The Best Fitness is : 
+ -307.0751
+
+Elapsed time is 0.086539 seconds.
+------- 9 -------
+The Best X is : 
+  Columns 1 through 4
+
+    1.5604    0.8666    1.9380    0.5623
+
+  Columns 5 through 8
+
+    0.9831    1.5721    1.6309    0.9391
+
+  Columns 9 through 10
+
+    1.6115    1.9561
+
+The Best Fitness is : 
+ -305.7962
+
+Elapsed time is 0.086384 seconds.
+------- 10 -------
+The Best X is : 
+  Columns 1 through 4
+
+    1.9981    1.9998    1.9992    1.9991
+
+  Columns 5 through 8
+
+    1.9999    1.9999    1.9990    1.9996
+
+  Columns 9 through 10
+
+    1.9995    1.9994
+
+The Best Fitness is : 
+ -295.7394
+
+Elapsed time is 0.066016 seconds.
+---------------------------
+Mean: 
+ -307.4668
+
+Best: 
+ -334.6148
+
+Worst: 
+ -295.6932
+
+STD: 
+   13.9094
+
+Average Running Time: 
+    0.0740
+
+
